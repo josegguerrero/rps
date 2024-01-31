@@ -58,3 +58,5 @@ function playGame() {
     else
         return 'Too bad! You lost the game';
 }
+
+playGame();
